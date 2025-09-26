@@ -17,8 +17,6 @@ Roam Africa is a simple Single Page Application that allows users to explore Afr
 
 ##  How to Run the Project
 1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/roam-africa.git
 Open the project folder in VS Code
 
 Run index.html in the browser
